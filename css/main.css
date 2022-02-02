@@ -66,10 +66,11 @@ figcaption{
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 1px;
-  color: #666;
+  color: #142f38;
+  padding: 10px 0 10px 0;
 }
 a{
-  color: #192954;
+  color: #347fa5;
   font-size: 17px;
   margin: 2em 2em 2em 2em;
   float: right;
